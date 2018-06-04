@@ -40,6 +40,8 @@ optional arguments:
 ## 	Contact
 Feel free to [contact me](mailto:junyouliu9@gmail.com) if there's any problems. And welcome to open issues and send pull requests.
 
+Inspired by [BlockCatIO](https://github.com/BlockCatIO/solidity-flattener)
+
 ### License
 
 MIT License (2018), Jun-You Liu
