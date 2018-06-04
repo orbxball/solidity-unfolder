@@ -21,3 +21,7 @@ python3 solidity-flattener.py --help
 
 ## 	Contact
 Feel free to [contact me](mailto:junyouliu9@gmail.com) if there's any problems. And welcome to open issues and send pull requests.
+
+### License
+
+MIT License (2018), Jun-You Liu
