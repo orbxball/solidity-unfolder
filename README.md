@@ -14,10 +14,28 @@ Manually combining all imports in a solidity file when verifying your contract s
 There's no any requirements for this tool.
 
 ```
-git clone <github link>
-cd solidity-flattener
-python3 solidity-flattener.py --help
+pip install solidity-unfolder
 ```
+
+
+## Usage
+
+```
+usage: solu [-h] [-o *.sol] *.sol *.*.*
+
+Unfolds all local imports in a solidity file to generate a flat solidity file.
+Put the output file into out/ folders.
+
+positional arguments:
+  *.sol                 target filename with imports
+  *.*.*                 solidity compiler version e.g. 0.4.24
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -o *.sol, --output *.sol
+                        output filename (default: flat.sol)
+```
+
 
 ## 	Contact
 Feel free to [contact me](mailto:junyouliu9@gmail.com) if there's any problems. And welcome to open issues and send pull requests.
