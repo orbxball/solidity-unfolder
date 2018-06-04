@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+import unfolder.main
+
+unfolder.main.main()
