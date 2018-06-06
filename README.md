@@ -36,6 +36,18 @@ optional arguments:
                         output filename (default: flat.sol)
 ```
 
+### Example
+
+```
+solu contract-with-imports.sol 0.4.24
+```
+It will output `flat.sol` (default output filename) with solidity version `0.4.24` in `out/` folder.
+
+```
+solu contract-with-imports.sol 0.4.20 --output contract-flat.sol
+```
+It will output `contract-flat.sol` with solidity version `0.4.20` in `out/` folder.
+
 
 ## 	Contact
 Feel free to [contact me](mailto:junyouliu9@gmail.com) if there's any problems. And welcome to open issues and send pull requests.
