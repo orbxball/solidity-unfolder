@@ -11,7 +11,7 @@ Manually combining all imports in a solidity file when verifying your contract s
 
 ## Installation
 
-There's no any requirements for this tool.
+There are no requirements for this tool.
 
 ```
 pip install solidity-unfolder
@@ -50,9 +50,9 @@ It will output `contract-flat.sol` with solidity version `0.4.20` in `out/` fold
 
 
 ## 	Contact
-Feel free to [contact me](mailto:junyouliu9@gmail.com) if there's any problems. And welcome to open issues and send pull requests.
+Feel free to [contact me](mailto:junyouliu9@gmail.com) if there's any problem. And welcome to open issues and send pull requests.
 
-Inspired by [BlockCatIO](https://github.com/BlockCatIO/solidity-flattener)
+Inspired by [BlockCatIO](https://github.com/BlockCatIO/solidity-flattener).
 
 ### License
 
